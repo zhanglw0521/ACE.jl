@@ -1,6 +1,6 @@
 name = "ACE"
 uuid = "3e8ccfd2-c8b0-11ea-32f1-f3a5990fd77a"
-version = "0.12.1"
+version = "0.12.3"
 
 [deps]
 ACEbase = "14bae519-eb20-449c-a949-9c58ed33163e"
@@ -22,6 +22,7 @@ Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
 
 [compat]
 ACEbase = "0.2"
+NamedTupleTools = "0.13"
 julia = "1.5,1.6"
 
 [extras]
